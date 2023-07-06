@@ -2,4 +2,4 @@
 >> The landing page is built using HTML5 , CSS and JS and some light weight technologies
 
 The acess to the ecommerce website on :
-https://oikenna3@.wixsite.com/qualtecki
+https://oikenna3.wixsite.com/qualtecki
